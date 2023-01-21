@@ -1,1 +1,0 @@
-# tech_for_good

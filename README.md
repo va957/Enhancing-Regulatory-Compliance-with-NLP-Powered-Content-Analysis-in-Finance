@@ -1,3 +1,4 @@
+This Project was part of DataSolve'22 organized by Wolters Kluwer - [Check out my LinkedIn post](https://www.linkedin.com/posts/varad-ingale-99173a1ba_datasolve-ai-datasolve-activity-7011942871037587456-AI66?utm_source=share&utm_medium=member_desktop)
 ## Inspiration
 
 In large organizations, employees often grapple with the daunting task of sifting through extensive paperwork to understand and adhere to various rules and regulations. This project was inspired by the need to alleviate this challenge. The goal is to categorize regulations into meaningful categories, making it easier for businesses to identify crucial updates, automate their assignment to relevant individuals or departments, and efficiently manage compliance policies.

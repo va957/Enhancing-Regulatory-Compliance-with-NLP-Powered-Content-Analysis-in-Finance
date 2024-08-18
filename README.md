@@ -18,7 +18,7 @@ The project specifically addresses regulatory updates pertinent to providers of 
 
 **Feature Engineering:** We used a TFIDF vectorizer to convert the pre-processed text data into numerical vectors.
 
-**Modeling:** Initially, we applied basic machine learning models, including Logistic Regression, K-Nearest Neighbors (KNN), and Naive Bayes. However, these models did not yield satisfactory results. Subsequently, we explored tree-based models such as LightGBM (LGBM), Random Forest, and Gradient Boosting. After extensive experimentation, we found that an ensemble of LGBM with its optimal parameters and Random Forest using a One Vs Rest Classifier produced the best results.
+**Modeling:** Initially, we applied basic machine learning models, including Logistic Regression, K-Nearest Neighbors (KNN), and Naive Bayes. However, these models did not yield satisfactory results. Subsequently, we explored tree-based models such as LightGBM (LGBM), Random Forest, and Gradient Boosting. After extensive experimentation, we found that an ensemble of LGBM with its optimal parameters and SVM using a One Vs Rest Classifier produced the best results.
 
 **Demonstration:** To showcase our project, we utilized the Gradio library for creating a user-friendly interface.
 
